@@ -1,0 +1,10 @@
+# mortgage payment calculator
+# mortgage_calculator_messages.yml
+
+welcome: "Welcome to Mortgage Payment Calculator!"
+principal: "Enter loan amount as a whole dollar amount (no cents)."
+valid_amount: "Please enter a valid amount."
+apr: "Enter Annual Percentage Rate without '%' sign, (for example: 5.5):"
+maturity: "Enter loan duration (maturity) as a whole number, in years:"
+repeat: "Do you want to repeat? Enter 'y' for yes, any other key for no."
+goodbye: "Thank you for using Mortgage Payment Calculator! Goodbye!"
